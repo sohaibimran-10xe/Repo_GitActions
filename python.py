@@ -1,8 +1,8 @@
 """
 This is a doc string
 """
-z = 1
+Z = 1
 B = 2
-h = z + B
+H = Z + B
 
-print(h)
+print(H)
