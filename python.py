@@ -1,7 +1,8 @@
-import nump as np
-
+"""
+This is a doc string
+"""
 z = 1
-b = 2
-h = z + b
+B = 2
+H = z + B
 
-print(h)
+print(H)
